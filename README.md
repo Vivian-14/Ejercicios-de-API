@@ -8,4 +8,10 @@
 
 <img src="https://i.pinimg.com/1200x/52/1b/e6/521be64cdb53322907fda07fde262f19.jpg" width="400">
 
+<br><br>
+
+<img src="https://github.com/Vivian-14/Ejercicios-de-API/blob/main/Pruebas/prueba.png" width="400">
+<img src="https://github.com/Vivian-14/Ejercicios-de-API/blob/main/Pruebas/METODOPOST.png" width="400">
+<img src="https://github.com/Vivian-14/Ejercicios-de-API/blob/main/Pruebas/POST-TEMPERATURA.png" width="400">
+
 </div>
